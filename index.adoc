@@ -1,2 +1,4 @@
 
 * link:catalogs.adoc[структура каталогов нового проекта]
+
+* link:catalog/spring-boot.adoc[spring-boot]
