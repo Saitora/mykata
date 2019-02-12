@@ -1,6 +1,4 @@
 
 * link:catalogs.adoc[структура каталогов нового проекта]
-
 * link:catalog/spring-boot.adoc[spring-boot]
-
 * link:catalog/sysadm.adoc[тренинг по администрированию]
