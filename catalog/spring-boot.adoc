@@ -1,3 +1,6 @@
 
 === links
 * link:https://start.spring.io[initializr]
+
+=== kata
+* link:spring-boot/messages.adoc[(1) страница с сообщениями]
