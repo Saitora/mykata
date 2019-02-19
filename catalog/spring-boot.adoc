@@ -1,6 +1,10 @@
 
-=== links
+== links
 * link:https://start.spring.io[initializr]
 
-=== kata
+== kata
 * link:spring-boot/messages.adoc[(1) страница с сообщениями]
+* link:spring-boot/auth.adoc[(1) авторизация пользователя]
+* link:spring-boot/scrapping.adoc[(1) парсинг сайта (hh, котировки, ...)]
+* link:spring-boot/proxylist.adoc[(1) список проксей]
+* link:spring-boot/parsermanager.adoc[(3) управляемый и расширяемый парсер]

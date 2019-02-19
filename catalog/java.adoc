@@ -1,0 +1,5 @@
+
+* link:java/maven.adoc[maven]
+* link:java/gradle.adoc[gradle]
+* link:design_patterns.adoc[design patterns]
+* link:algorithms.adoc[algorithms]
