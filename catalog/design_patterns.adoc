@@ -1,7 +1,7 @@
 
 == Порождающие шаблоны проектирования
 
-* link:design_patterns/abstractFatoryPattern.adoc[Abstract Factory]
+* link:design_patterns/abstractFactoryPattern.adoc[Abstract Factory]
 * link:design_patterns/builderPattern.adoc[Builder]
 * link:design_patterns/factoryMethodPattern.adoc[Factory Method]
 * link:design_patterns/prototypePattern.adoc[Prototype]
