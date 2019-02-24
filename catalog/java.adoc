@@ -3,3 +3,4 @@
 * link:java/gradle.adoc[gradle]
 * link:design_patterns.adoc[design patterns]
 * link:algorithms.adoc[algorithms]
+* link:java/xml.adoc[xml]
