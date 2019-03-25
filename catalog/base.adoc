@@ -1,0 +1,29 @@
+
+= Набор базовых кат по сложности
+
+== Простые
+
+* Чтение данные из файла в строку/запись строки в Файл
+* Обработка аргументов командной строки
+* Чтение ввода из консоли
+* Чтение xml и поиск элемента
+* Загрузка html с url и поиск элемента
+* Выполнение команды в операционной системе
+* Найти все файлы в папке, содержащие строки
+* сделать цветной jpg черно-белым
+
+== Средние
+
+* реализация базовых элементов протокола http
+* простой чат с gui и веб клиентом
+* парсинг вакансий с hh по теме с сохранением в бд
+
+== Сложные
+
+== codekata
+
+1. link:http://codekata.com/kata/kata01-supermarket-pricing/[Supermarket pricing]
+2. link:http://codekata.com/kata/kata02-karate-chop/[Karate Chop]
+3. link:http://codekata.com/kata/kata03-how-big-how-fast/[How Big? How Fast?]
+4. link:http://codekata.com/kata/kata04-data-munging/[Data Munging]
+
